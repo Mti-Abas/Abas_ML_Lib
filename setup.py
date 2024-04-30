@@ -8,7 +8,7 @@ with open(path.join(working_directory, 'README.md'), encoding='utf-8') as f:
 setup(
     name='abas_ml_lib', # name of packe which will be package dir below project
     version='0.0.1',
-    url='https://github.com/yourname/yourproject',
+    url='https://github.com/Mti-Abas/Abas_ML_Lib',
     author='Abas Ahmed',
     author_email='basaltmymy0@gmai.com',
     description='Simple test package',
