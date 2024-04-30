@@ -5,4 +5,4 @@ unclean_data.head()
 clean_data=read_eda.do_EDA(unclean_data)
 # Initialize AutoML and find the best model
 automl = AutoML(clean_data, target_column="Loan_Status")
-automl.find_best_model()
+automl.find_best_model() 

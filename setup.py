@@ -9,8 +9,8 @@ setup(
     name='abas_ml_lib', # name of packe which will be package dir below project
     version='0.0.1',
     url='https://github.com/yourname/yourproject',
-    author='The Urban Penguin',
-    author_email='andrewmallett90@gmail.com',
+    author='Abas Ahmed',
+    author_email='basaltmymy0@gmai.com',
     description='Simple test package',
     long_description=long_description,
     long_description_content_type='text/markdown',
